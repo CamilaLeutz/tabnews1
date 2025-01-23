@@ -1,2 +1,3 @@
 # tabnews
-Primeiro projeto do curso.dev 
+
+Primeiro projeto do curso.dev
